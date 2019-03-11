@@ -1,10 +1,12 @@
 # Docx to HTML demo 
 
-a basic implementation of a drag-and-drop docx to html convertor, using mammoth.js
+a basic implementation of a drag-and-drop docx to html convertor, using Mammoth
+
+See a [demo](demo.html) here
 
 ## Used third-party libraries:
 
-[Mammoth.js](https://github.com/mwilliamson/mammoth.js/]) (required)   
+[Mammoth.js](https://github.com/mwilliamson/mammoth.js/) (required)   
 [jQuery](https://code.jquery.com/jquery/) (optional) for postprocessing
 
 ## How to use:
